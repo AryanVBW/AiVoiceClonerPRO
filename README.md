@@ -163,6 +163,7 @@ python infer-web.py
 ```
 
 ## Credits
++ [RVC-Projects](https://github.com/RVC-Project)
 + [ContentVec](https://github.com/auspicious3000/contentvec/)
 + [VITS](https://github.com/jaywalnut310/vits)
 + [HIFIGAN](https://github.com/jik876/hifi-gan)
