@@ -20,11 +20,6 @@ An easy-to-use Voice Conversion framework based on VITS, powered by ARYAN
 ------
 [**Changelog**](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/Changelog_EN.md) | [**FAQ (Frequently Asked Questions)**](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/wiki/FAQ-(Frequently-Asked-Questions)) 
 
-[**English**](../en/README.en.md) 
-
-
-Check our [Demo Video](https://www.bilibili.com/video/BV1pm4y1z7Gm/) here!
-
 Realtime Voice Conversion Software using RVC : [w-okada/voice-changer](https://github.com/w-okada/voice-changer)
 
 
