@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://github.com/AryanVBW/kali-Linux-Android/releases/download/1/removebackground.png" height="150"><br>
-An easy-to-use Voice Conversion framework based on VITS, powered by ARYAN
+An easy-to-use Voice Conversion framework based on VITS, powered by python 
 </p>
 
 
